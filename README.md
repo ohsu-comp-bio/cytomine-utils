@@ -153,6 +153,7 @@ cytomine source is here: /usr/local/src/Cytomine_src
 cytomine runs on docker, run the following commands to see the dockers running to serve cytomine
 
 ```
+ssh exaomero
 sudo su - 
 docker ps -a
 ```
